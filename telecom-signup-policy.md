@@ -621,32 +621,8 @@
 
  
 
-| 항목 | 값 |
-
-|---|---|
-
-| 문서 상태 | Draft / In Review / Approved / Archived |
-
-| 정책 중요도 | High / Medium / Low |
-
-| 적용 채널 | App / MWeb / Web / Partner |
-
-| 가입 상태 | Pending / Verified / Completed / Rejected |
-
-
- 
 
 ## 18. 변경 이력
-
-
- 
-
-| 버전 | 일자 | 작성자 | 변경 내용 |
-
-|---|---|---|---|
-
-| v0.1-draft | 2026-03-11 | ChatGPT | GitBook 테스트용 초안 생성 |
-
 
  
 
