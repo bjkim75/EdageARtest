@@ -657,11 +657,11 @@
 
 ### 19.1 링크 테스트
 
-- [회원 탈퇴 정책서](./member-withdrawal-policy.md)
+- [회원 탈퇴 정책서]
 
-- [개인정보 처리 기준서](./privacy-policy-standard.md)
+- [개인정보 처리 기준서]
 
-- [본인확인 연동 명세서](./identity-verification-spec.md)
+- [본인확인 연동 명세서]
 
 
  
